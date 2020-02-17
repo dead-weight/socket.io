@@ -23,6 +23,7 @@ Some implementations in other languages are also available:
 - [Swift](https://github.com/socketio/socket.io-client-swift)
 - [Dart](https://github.com/rikulo/socket.io-client-dart)
 
+[![Run on Repl.it](https://repl.it/badge/github/dead-weight/socket.io)](https://repl.it/github/dead-weight/socket.io)
 Its main features are:
 
 #### Reliability
